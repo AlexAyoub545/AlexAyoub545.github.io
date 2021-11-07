@@ -1,0 +1,1 @@
+This new introduction to python is mainly dedicated to Mr. Jonathan. If any of you remember him slightly then you might remember his special flying lessons that everyone *most definitely* loved <!--and survived..--> .
