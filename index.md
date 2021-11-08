@@ -1,3 +1,5 @@
-[Continue where you left off?](contents.md)
+[Continue where you left off?](./site-files/contents.md)
 
-[Start new](getstarted.md)
+[Start new](./site-files/getstarted.md)
+
+   <body style="background-color:black;">
