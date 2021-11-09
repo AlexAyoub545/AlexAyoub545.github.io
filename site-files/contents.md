@@ -9,6 +9,6 @@
 1. 
 
 # Chapter two: Variables
-1. 
+1. Variables
 
 # Chapter three: 
