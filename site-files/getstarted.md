@@ -51,6 +51,6 @@ python
 
 <p style="color:white">
 
-Or if you want to you can head off to [the history](foreward.md) of how robotics started in school or view who this new tutorial/intro is dedicated to [here](dedication.md).
+| [Dedication](dedication.md) | [Table of Contents](contents.md) | [History](foreward.md) |
 
 </p>
