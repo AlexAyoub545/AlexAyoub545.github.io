@@ -1,6 +1,10 @@
 <p style="color:white">
 
-Okay considering your here reading this you've probably finished arithmetics. If you haven't, you know, skipped it or anything.. If you did go back to it it's a very important lesson. So this lesson will teach you about the function called `print()`.</p>
+Okay considering your here reading this you've probably finished arithmetics. If you haven't, you know, skipped it or anything.. If you did go back to it it's a very important lesson. So this lesson will teach you about the function called
+
+`print()`
+ 
+</p>
 
 <p style="color:white">
 
