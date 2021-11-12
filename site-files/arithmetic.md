@@ -94,7 +94,8 @@ Go ahead try and have fun with squaring numbers.
 
 <p style="color:white"> 
 
-**End of lesson task:**
+<p style="color:red">Task:</p>
+
 </p>
 <p style="color:white">
 If you read and understood this lesson you will be able to do this task:
